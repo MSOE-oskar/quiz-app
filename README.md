@@ -2,7 +2,7 @@
 ### Quiz Kata for Direct Supply
 ### By Oskar Sierzega
 
-I hope you enjoy my kata! Thank you for the opportunity to interview at Direct Supply :)
+I hope you enjoy my kata! I chose to create a Quiz app that accesses the Open Trivia Database API. Users are able to play a quiz of any category, as well as choose from two different modes: Endless, where you try to answer as many questions correctly with a limited number of lives, and Timed, where you try to answer a certain amount of questions in a given timeframe. I also added user stats, achievements, and soundeffects to hopefully make the game more fun. Thank you for the opportunity to interview at Direct Supply :)
 
 How to Run
 1. Pull the repo onto local machine
